@@ -1,0 +1,4 @@
+pesquisaria
+kernel
+Python
+thingPython
